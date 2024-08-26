@@ -1,4 +1,4 @@
-# Annual Tree Project using GCP BigQuery
+# City of San Francisco Tree Project
 The city of San Francisco mayor wants to start an annual tree appreciation program, which will involve decorating trees along streetsides. As a Data Analyst, the task is to provide the mayor’s office with a list of the top 10 addresses where mature trees have been planted along the streets. With this information, they can plan to have trees decorated before the event begins and the decorations cleaned up once it is complete. 
 
 In this activity, the following tasks has been completed: 
