@@ -15,7 +15,6 @@ The Street Trees dataset* is publicly available on BigQuery and contains more th
 [https://data.sfgov.org//](https://data.sfgov.org//), the San Francisco’s Department Publishing Plans portal. This data is provided on an “as-is” basis and is subject to change at any time without notice. Please visit the source to get the latest version.
 
 
-
 ### SQL Code:
 ```SQL
 SELECT
@@ -34,3 +33,11 @@ LIMIT 10;
 
 The Project Screenshot from the Google Cloud Platform BigQuery as follows:
 ![Screenshot](https://github.com/snmhoque123/Google_Cloud_BigQuery/blob/main/Sample_Screenshot.png)
+
+
+### [Click Data Visualization using Looker Studio](https://lookerstudio.google.com/s/rFbjzR-CrzU)
+
+The output data can be visualized using Looker Studio:
+![](https://github.com/snmhoque123/Google_Cloud_BigQuery/blob/main/Data_visualization.png)
+
+
